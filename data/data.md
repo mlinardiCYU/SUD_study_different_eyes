@@ -3,7 +3,7 @@
 
 ## Usage
 
-In order to reproduce this work, first all datasets must be acquired. All the datasets are read and preprocessed as described in the [generate dataset](generate_dataset.py) script. The paths to the respective original files are hard-coded, in order to indicate exactly which of the original files were used. To generate the final dataset, all datasets are simply concatenated, as exemplified in the [concatenate](concatenate.py) script.  
+In order to reproduce the experiments conducted in this work all datasets must be acquired. All the datasets must get read and preprocessed as described in the [generate dataset](generate_dataset.py) script. The paths to the original files are hard-coded, in order to indicate exactly which of the original files were used. To generate the final dataset, all datasets are simply concatenated, as shown in the [concatenate](concatenate.py) script.  
 
 
 ## Data Acquisition
