@@ -10,6 +10,14 @@ The paper appears in the proceesings of the International Conference on CMC and 
 Details on the data acquisition and preprocessing are described [here](data/data.md).
 
 
+## Dependencies  
+
+* **Install all the dependencies:**  
+```
+python3 -m pip install -r requirements.txt
+```
+
+
 ## Usage  
 
 ### Training  
